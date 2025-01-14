@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-![Fast Forward Network](images/FFN.png)
+![Feed-Forward Neural Network](images/FFN.png)
 
 This project focuses on customer churn prediction using a **Feed-Forward Neural Network (FFN)** for binary classification. The model evaluates various network architectures, activation functions, and optimizers to identify the most efficient and accurate configuration for predicting customer churn.
 
