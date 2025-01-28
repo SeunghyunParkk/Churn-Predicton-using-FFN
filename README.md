@@ -83,7 +83,7 @@ The FFN models exhibited robust and consistent performance, achieving high accur
 ## Requirements
 
 - Python 3.8+
-- Libraries: TensorFlow, NumPy, Pandas, Matplotlib, Scikit-learn
+- Libraries: PyTorch, NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn
 
 ## Usage
 
