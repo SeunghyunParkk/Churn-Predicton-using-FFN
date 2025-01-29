@@ -4,11 +4,6 @@
 
 This project focuses on customer churn prediction using a **Feed-Forward Neural Network (FFN)** for binary classification. The model evaluates various network architectures, activation functions, and optimizers to identify the most efficient and accurate configuration for predicting customer churn.
 
-## Project Structure
-
-- **Churn_Prediction.ipynb**: Jupyter Notebook containing the code implementation for data preprocessing, model training, and evaluation.
-- **Churn_Prediction_Report.pdf**: A detailed report explaining the project methodology, data preprocessing steps, model configurations, and results.
-
 ## Introduction
 
 Customer churn prediction helps businesses retain valuable clients by identifying potential churners and mitigating risks. The goal of this project is to:
