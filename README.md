@@ -80,12 +80,6 @@ The FFN models exhibited robust and consistent performance, achieving high accur
 - Python 3.8+
 - Libraries: PyTorch, NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn
 
-## Usage
-
-1. Clone the repository.
-2. Open `Churn_Prediction.ipynb` in Jupyter Notebook.
-3. Follow the code for data preprocessing, model training, and evaluation.
-
 ## Author
 
 **Seunghyun Park**
